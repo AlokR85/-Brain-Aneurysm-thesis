@@ -1,0 +1,21 @@
+# Data and training outputs (too large for GitHub; they live on Kaggle)
+*.dcm
+data/
+v2_png/
+yolo_*/
+runs/
+weights/
+*.pt
+*.pth
+*.zip
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

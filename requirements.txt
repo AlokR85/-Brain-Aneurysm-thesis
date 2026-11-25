@@ -1,0 +1,16 @@
+# All experiments were run on Kaggle (GPU T4) with Python 3.13,
+# PyTorch 2.11 and Ultralytics 8.4.174. Kaggle already has most of these;
+# the notebooks only pip-install ultralytics and grad-cam.
+numpy
+pandas
+opencv-python
+pillow
+pydicom
+tqdm
+matplotlib
+scikit-learn
+scipy
+torch
+torchvision
+ultralytics>=8.4
+grad-cam
